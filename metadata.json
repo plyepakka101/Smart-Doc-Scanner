@@ -1,0 +1,6 @@
+{
+  "name": "Smart Doc Scanner",
+  "description": "AI-powered document and book scanner with dewarping, finger removal, edge detection, OCR, text-to-speech, and PDF sharing features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
